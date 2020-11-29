@@ -21,7 +21,7 @@ All commands should be executed in the repository directory.
 Once the repository  has been cloned and docker installed the system can be booted up with the following command
 
 ```bash
-docker-compse up
+docker-compose up
 ```
 This will spin up a docker stack compose of two containers:
 1. The `backend` container, housing the ETL logic code, tests and dashboard.
