@@ -1,0 +1,4 @@
+streamlit
+Psycopg2-binary
+SPARQLWrapper
+pytest
